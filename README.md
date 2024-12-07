@@ -1,2 +1,2 @@
 # AI_Toolkit
-Different AI projects
+This repository has all of my AI tools
